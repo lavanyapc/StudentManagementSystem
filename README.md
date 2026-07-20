@@ -1,4 +1,2 @@
-\#Student Management System developed using Python.
-
-
+\#Student Management System developed using Python by lavanya
 
