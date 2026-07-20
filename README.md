@@ -1,2 +1,4 @@
-\# student management system
+\#Student Management System developed using Python.
+
+
 
